@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>AsyncRat.Core</RootNamespace>
+    <AssemblyName>AsyncRat.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
